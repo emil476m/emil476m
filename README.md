@@ -1,8 +1,7 @@
 <!-- Top Banner -->
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00C4FF&height=200&section=header&text=👋%20Hi,%20I'm%20Emil%20💻&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20C%23%20•%20.NET%20•%20Python%20•%20Java%20•%20Angular&descAlignY=60&descAlign=50)
 
-💻 **Software Developer Student** passionate about building reliable, scalable, and efficient systems.  
-I enjoy working in backend the most, but I also work on frontend applications when necesarry. I try to continuously improve my craft through new challenges and projects.  
+💻 **Software Developer Student** I enjoy working in backend the most, but I also work on frontend applications when necesarry. I try to continuously improve my abilities through new challenges and projects.  
 
 ---
 
