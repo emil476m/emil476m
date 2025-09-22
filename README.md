@@ -35,6 +35,10 @@ I enjoy working in backend the most, but I also work on frontend applications wh
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emil476m&layout=compact&theme=tokyonight)  
 
+
+![Emil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emil476m&show_icons=true&theme=tokyonight)  
+
+
 ---
 
 
